@@ -1,0 +1,2 @@
+ReadMe for Baikal
+Baïkal offers ubiquitous and synchronized access to your calendars and address books over CalDAV and CardDAV. Baïkal implements the current IETF recommendation drafts of these industry standards for centralized calendar and address book collections.
