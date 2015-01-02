@@ -1,0 +1,1 @@
+rm /home/app/Specific/ENABLE_INSTALL;
